@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68ae3c9f-5f2d-4d76-a82d-28063b9b4896" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1biRUON5VOd3HeCdkh4hKAvJGhg" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\emil_\UltimateProjects\TheTrekkingZone\src" />
+      <recent name="C:\Users\emil_\UltimateProjects\TeamManagerSPA\src\scripts\handlers" />
+      <recent name="C:\Users\emil_\UltimateProjects\TeamManagerSPA\src\scripts\helpers" />
+      <recent name="C:\Users\emil_\UltimateProjects\TeamManagerSPA\src\scripts\helpers\auth\base" />
+      <recent name="C:\Users\emil_\UltimateProjects\TeamManagerSPA\src\scripts\helpers\auth" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68ae3c9f-5f2d-4d76-a82d-28063b9b4896" name="Default Changelist" comment="" />
+      <created>1589112942068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589112942068</updated>
+      <workItem from="1589112945056" duration="7071000" />
+      <workItem from="1589166456993" duration="9849000" />
+      <workItem from="1589193663762" duration="8687000" />
+      <workItem from="1589367759784" duration="10499000" />
+      <workItem from="1589387096130" duration="4700000" />
+      <workItem from="1589443027470" duration="10219000" />
+      <workItem from="1589455039012" duration="2323000" />
+      <workItem from="1589549995962" duration="1952000" />
+      <workItem from="1589626104405" duration="4340000" />
+      <workItem from="1589702512778" duration="77000" />
+      <workItem from="1589703054932" duration="16473000" />
+      <workItem from="1589793727585" duration="15792000" />
+      <workItem from="1590055485771" duration="75000" />
+      <workItem from="1590138443705" duration="4948000" />
+      <workItem from="1590145253653" duration="660000" />
+      <workItem from="1590146443699" duration="1531000" />
+      <workItem from="1590229129929" duration="10000" />
+      <workItem from="1590229265288" duration="47000" />
+      <workItem from="1590229579580" duration="38000" />
+      <workItem from="1592722526976" duration="1317000" />
+      <workItem from="1592723850911" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="3" key="#Project_Structure" timestamp="1589702952957">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="3" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1589702952957" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589200850276">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1589200850276" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1589114588841">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589114588841" />
+    <state x="349" y="170" key="com.intellij.ide.util.TipDialog" timestamp="1590229129886">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="170" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1590229129886" />
+  </component>
+</project>
